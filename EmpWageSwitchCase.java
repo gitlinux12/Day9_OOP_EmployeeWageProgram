@@ -30,7 +30,7 @@ public class EmpWageSwitchCase {
 		}
 
 public static void main(String[] args) {
-	EmpWageSwitchCase a = new EmpWageSwitchCase();
-	a.empWageSwitchCase();
+	EmpWageSwitchCase empWage = new EmpWageSwitchCase();
+	empWage.empWageSwitchCase();
 }
 }
